@@ -1,0 +1,43 @@
+.main-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.searchbar-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searchbar {
+    margin-right: 10px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+}
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 600px;
+    margin: 40px;
+    padding: 10px 30px;
+}
+
+.info {
+    font-size: 30px;
+    font-weight: 700;
+    padding: none;
+    margin: none;
+}
+
+.btn {
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px;
+}
