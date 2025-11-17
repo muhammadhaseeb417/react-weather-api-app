@@ -1,4 +1,5 @@
 function InfoCard() {
+
     return (
         <div className="card">
             <h3 className="info">Info</h3>
